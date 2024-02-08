@@ -1,7 +1,5 @@
 #Anthony Lozbin
-#U08906243
-#This program calculates either the half-life of a substance, or the amount of a substance remaining after a given time. Any other
-#input produces the output 'Sorry, invalid choice.'
+#This program calculates either the half-life of a substance, or the amount of a substance remaining after a given time. Any other input produces the output 'Sorry, invalid choice.'
 
 import math
 
